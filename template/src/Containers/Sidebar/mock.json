@@ -1,0 +1,54 @@
+{
+    "menu": [
+        {
+            "title": "Explore",
+            "link": "#",
+            "active": "true"
+        },
+        {
+            "title": "Radio",
+            "link": "#"
+        }
+    ],
+    "sections": [
+        {
+            "title": "Your Daily Mix",
+            "link": "#"
+        },
+        {
+            "title": "Songs",
+            "link": "#"
+        },
+        {
+            "title": "Albums",
+            "link": "#",
+            "active": "true"
+        },
+        {
+            "title": "Artists",
+            "link": "#"
+        },
+        {
+            "title": "Streams",
+            "link": "#"
+        },
+        {
+            "title": "Local Files",
+            "link": "#"
+        }
+    ],
+    "playlists": [
+        {
+            "title": "This Is: NOFX",
+            "link": "#"
+        },
+        {
+            "title": "Hardcore Lives!!!",
+            "link": "#"
+        },
+        {
+            "title": "House",
+            "link": "#"
+        }
+    ]
+}

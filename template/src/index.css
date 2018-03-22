@@ -1,0 +1,30 @@
+:root {
+  --white: #eee;
+  --grey-light: #a0a0a0;
+  --grey-dark: #828282;
+  --black: #222;
+  --black-dark: #111;
+  --black-light: #444;
+  --accent: #1ED760;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}

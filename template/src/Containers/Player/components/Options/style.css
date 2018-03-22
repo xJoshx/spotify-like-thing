@@ -1,0 +1,19 @@
+.options {
+  width: 200px;
+}
+
+.options__actions {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.options__icon {
+  color: var(--grey-light);
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.options__icon:hover {
+  color: var(--white);
+}

@@ -1,0 +1,33 @@
+.list {
+  color: var(--grey-dark);
+}
+
+.list__title {
+  font-weight: 300;
+  font-size: 12px;
+  text-transform: uppercase;
+  line-height: 2em;
+  letter-spacing: 1.5px;
+}
+
+.list__body {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list__item {
+  line-height: 2em;
+}
+
+.list__link {
+  text-decoration: none;
+  color: var(--grey-dark);
+}
+
+.list__link:hover {
+  color: var(--white);
+}
+
+.list__link--active {
+  color: var(--white);
+}

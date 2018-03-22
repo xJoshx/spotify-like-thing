@@ -1,0 +1,30 @@
+.player {
+  position: fixed;
+  height: 100px;
+  bottom: 0;
+  background: var(--black-light);
+  width: 100%;
+  z-index: 1;
+  border-top: 1px solid #000;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  min-width: 950px;
+}
+
+.player__options {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.player__controls {
+  width: 40%;
+  min-width: 400px;
+}
+
+.player__current-song {
+  width: 250px;
+}

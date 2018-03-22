@@ -1,0 +1,16 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: var(--black-dark);
+  width: 200px;
+  height: 100%;
+  padding: 50px 20px;
+  font-size: 14px;
+}
+
+.sidebar__menu,
+.sidebar__sections,
+.sidebar__playlists {
+  margin-bottom: 30px;
+}

@@ -1,0 +1,7 @@
+.navigation__icon {
+  color: var(--white);
+  cursor: pointer;
+}
+.navigation__icon:hover {
+  color: var(--grey-light)
+}

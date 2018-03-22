@@ -1,0 +1,37 @@
+.current-song {
+  display: flex;
+}
+
+.current-song__info {
+  list-style-type: none;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  font-weight: 300;
+}
+
+.current-song__title {
+  color: var(--white);
+  margin-bottom: 4px;
+}
+
+.current-song__artist {
+  font-size: 12px;
+  color: var(--grey-light);
+}
+
+.current-song__title:hover,
+.current-song__artist:hover {
+  color: var(--white);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.current-song__save i {
+  color: var(--grey-light);
+  margin-top: 7px;
+}
+
+.current-song__save i:hover {
+  color: var(--white);
+  cursor: pointer;
+}
